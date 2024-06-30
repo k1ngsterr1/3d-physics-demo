@@ -1,9 +1,10 @@
 <script setup>
 import Button from "./shared/ui/Button/index.vue";
+import MainScreen from "./widgets/Screens/MainScreen/index.vue";
 </script>
 
 <template>
-  <Button text="Click Me" />
+  <MainScreen />
 </template>
 
 <style></style>
